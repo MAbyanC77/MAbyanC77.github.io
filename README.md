@@ -15,3 +15,18 @@ Project buttons link directly to the Blog Management System and EduGlobal BD rep
 ## Project demo videos
 - Blog Management System demo: https://drive.google.com/file/d/107sfxSA4jqhZRe9GWK3h460QR1L9Zpvg/view?usp=drive_link
 - EduGlobal BD demo: https://drive.google.com/file/d/1RoKQ6lAHHnrJnw-j5GbW6AcD4wYpIBVe/view?usp=drive_link
+
+
+## Latest update
+- All navigation and action links use white text in normal, visited, hover, and active states.
+- IELTS score is not displayed.
+- Blog Management System and EduGlobal BD cards include repository and demo links.
+- Canonical portfolio URL: https://mabyanc77.github.io
+
+
+## Portfolio updates
+- IELTS score removed from the page.
+- Blog Management System links to its GitHub repository and demo video.
+- EduGlobal BD links to its GitHub repository and demo video.
+- Railway Emergency Detection links to the GitHub profile.
+- Canonical website: https://mabyanc77.github.io/

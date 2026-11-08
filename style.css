@@ -8,3 +8,55 @@ a, .nav-links a, .quick-links a, .project-link, .brand, .btn.secondary { color: 
 
 .demo-link { margin-top: 9px; color: #ffffff; opacity: .88; }
 .demo-link:hover { opacity: 1; color: #ffffff; }
+
+
+/* FINAL: consistent white link colours in every browser state */
+a:link,
+a:visited,
+a:hover,
+a:active,
+a:focus,
+.nav-links a:link,
+.nav-links a:visited,
+.nav-links a:hover,
+.nav-links a:active,
+.brand:link,
+.brand:visited,
+.quick-links a:link,
+.quick-links a:visited,
+.quick-links a:hover,
+.project-link:link,
+.project-link:visited,
+.project-link:hover {
+  color: #ffffff !important;
+}
+a { text-decoration-color: rgba(255,255,255,.45); }
+.nav-links a { text-decoration: none; }
+.brand { text-decoration: none; }
+.btn.primary { color: #080b12 !important; }
+.btn.secondary:link,
+.btn.secondary:visited,
+.btn.secondary:hover,
+.btn.secondary:active { color: #ffffff !important; }
+
+/* Project action links and accessible white link states */
+a:link, a:visited, a:hover, a:active, a:focus {
+  color: #ffffff !important;
+}
+.project-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 18px;
+}
+.project-actions a {
+  color: #ffffff !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(255,255,255,.45);
+  text-underline-offset: 4px;
+  font-weight: 700;
+}
+.project-actions a:hover {
+  text-decoration-color: #ffffff;
+}
