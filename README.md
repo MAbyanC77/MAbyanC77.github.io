@@ -9,4 +9,9 @@ Responsive personal portfolio built with plain HTML, CSS and JavaScript.
 4. Your site will be available at `https://MAbyanC77.github.io`.
 
 ## Before publishing
-Project buttons currently point to the GitHub profile because exact repository URLs were not supplied. Replace them with individual repo URLs once you have them.
+Project buttons link directly to the Blog Management System and EduGlobal BD repositories. The Railway Emergency Detection project links to your GitHub profile. Add Google Drive demo video links after setting each video to Anyone with the link — Viewer.
+
+
+## Project demo videos
+- Blog Management System demo: https://drive.google.com/file/d/107sfxSA4jqhZRe9GWK3h460QR1L9Zpvg/view?usp=drive_link
+- EduGlobal BD demo: https://drive.google.com/file/d/1RoKQ6lAHHnrJnw-j5GbW6AcD4wYpIBVe/view?usp=drive_link
